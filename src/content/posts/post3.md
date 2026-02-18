@@ -3,7 +3,7 @@ title: foxwebsite
 published: 2026-02-18
 description: 我的第一个pytohn库
 tags: [github,open,pypi,foxwebsite,python]
-category: Examples
+category: python
 draft: false
 ---
 
