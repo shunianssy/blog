@@ -5,9 +5,14 @@ import type { AstroIntegration } from "@swup/astro";
 declare module "*.svelte" {
 	import type { SvelteComponent } from "svelte";
 
-	// 使用 any 类型以支持 Astro 的 client:* 指令
-	// eslint-disable-next-line @typescript-eslint/no-explicit-any
-	const Component: new (...args: any[]) => SvelteComponent<any, any, any>;
+	// 使用 unknown 类型以支持 Astro 的 client:* 指令
+	const Component: new (
+		...args: never[]
+	) => SvelteComponent<
+		Record<string, unknown>,
+		Record<string, unknown>,
+		Record<string, unknown>
+	>;
 	export default Component;
 }
 
