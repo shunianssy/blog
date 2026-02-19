@@ -1,7 +1,7 @@
 ---
 title: 我的开源项目
 published: 2026-02-18
-description: 列一下我的开源项目
+description: Blog启动！
 tags: [github,open]
 # image: "./cover.jpeg"
 category: 开源
