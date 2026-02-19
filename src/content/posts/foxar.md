@@ -195,10 +195,6 @@ pip install foxar
 4. **Easy Migration**: Migrate existing Flask applications with minimal changes
 5. **Extensible**: Use all FastAPI features alongside Flask-compatible code
 
-## Documentation
-
-For more information, please refer to the [documentation](docs/).
-
 ## Contributing
 
 Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
