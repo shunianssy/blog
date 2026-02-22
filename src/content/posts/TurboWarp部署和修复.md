@@ -1,5 +1,5 @@
 ---
-title: TurboWarp 编辑器部署和修复文档
+title: TurboWarp 编辑器部署和修复
 published: 2026-02-20
 description: TurboWarp的部署与部署后出现报错的修复
 tags: [github,open,TurboWarp,scratch]
@@ -7,7 +7,7 @@ category: 开源
 draft: false
 ---
 
-# TurboWarp 编辑器部署和修复文档
+# TurboWarp 编辑器部署和修复
 
 ## 1. 部署步骤
 
