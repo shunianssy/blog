@@ -11,7 +11,7 @@ draft: false
 
 ## 背景
 ::github{repo="shunianssy/foxar"}
-一直想提升flask的速度读，但大部分都不太理想，所以，这个项目诞生了
+一直想提升flask的速度，但大部分都不太理想，所以，这个项目诞生了
 
 ## 简介
 （其实直接来自原项目）
